@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.exe
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.json
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.dev.json
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+C:\Users\1\Desktop\C#\Основы\9\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.pdb
+C:\Users\1\Desktop\C#\Основы\9\Structures\obj\Debug\netcoreapp3.1\Structures.genruntimeconfig.cache
